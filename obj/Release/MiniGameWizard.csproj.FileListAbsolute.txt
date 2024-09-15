@@ -1,0 +1,15 @@
+C:\Users\Administrator\MiniGameWizard\bin\Release\MiniGameWizard.exe.config
+C:\Users\Administrator\MiniGameWizard\bin\Release\MiniGameWizard.exe
+C:\Users\Administrator\MiniGameWizard\bin\Release\MiniGameWizard.pdb
+C:\Users\Administrator\MiniGameWizard\obj\Release\MiniGameWizard.csproj.AssemblyReference.cache
+C:\Users\Administrator\MiniGameWizard\obj\Release\MiniGameWizard.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\MiniGameWizard\obj\Release\MiniGameWizard.Form1.resources
+C:\Users\Administrator\MiniGameWizard\obj\Release\MiniGameWizard.Form2.resources
+C:\Users\Administrator\MiniGameWizard\obj\Release\MiniGameWizard.MatchingGame.resources
+C:\Users\Administrator\MiniGameWizard\obj\Release\MiniGameWizard.Form4.resources
+C:\Users\Administrator\MiniGameWizard\obj\Release\MiniGameWizard.Form5.resources
+C:\Users\Administrator\MiniGameWizard\obj\Release\MiniGameWizard.Properties.Resources.resources
+C:\Users\Administrator\MiniGameWizard\obj\Release\MiniGameWizard.csproj.GenerateResource.cache
+C:\Users\Administrator\MiniGameWizard\obj\Release\MiniGameWizard.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\MiniGameWizard\obj\Release\MiniGameWizard.exe
+C:\Users\Administrator\MiniGameWizard\obj\Release\MiniGameWizard.pdb

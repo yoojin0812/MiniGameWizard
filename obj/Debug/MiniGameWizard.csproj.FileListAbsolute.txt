@@ -1,0 +1,58 @@
+C:\Users\hw\Desktop\MiniGameWizard\bin\Debug\MiniGameWizard.exe.config
+C:\Users\hw\Desktop\MiniGameWizard\bin\Debug\MiniGameWizard.exe
+C:\Users\hw\Desktop\MiniGameWizard\bin\Debug\MiniGameWizard.pdb
+C:\Users\hw\Desktop\MiniGameWizard\obj\Debug\MiniGameWizard.csproj.AssemblyReference.cache
+C:\Users\hw\Desktop\MiniGameWizard\obj\Debug\MiniGameWizard.Form1.resources
+C:\Users\hw\Desktop\MiniGameWizard\obj\Debug\MiniGameWizard.Form2.resources
+C:\Users\hw\Desktop\MiniGameWizard\obj\Debug\MiniGameWizard.MatchingGame.resources
+C:\Users\hw\Desktop\MiniGameWizard\obj\Debug\MiniGameWizard.Form4.resources
+C:\Users\hw\Desktop\MiniGameWizard\obj\Debug\MiniGameWizard.Form5.resources
+C:\Users\hw\Desktop\MiniGameWizard\obj\Debug\MiniGameWizard.Properties.Resources.resources
+C:\Users\hw\Desktop\MiniGameWizard\obj\Debug\MiniGameWizard.csproj.GenerateResource.cache
+C:\Users\hw\Desktop\MiniGameWizard\obj\Debug\MiniGameWizard.csproj.CoreCompileInputs.cache
+C:\Users\hw\Desktop\MiniGameWizard\obj\Debug\MiniGameWizard.exe
+C:\Users\hw\Desktop\MiniGameWizard\obj\Debug\MiniGameWizard.pdb
+C:\Users\Administrator\MiniGameWizard\bin\Debug\MiniGameWizard.exe.config
+C:\Users\Administrator\MiniGameWizard\bin\Debug\MiniGameWizard.exe
+C:\Users\Administrator\MiniGameWizard\bin\Debug\MiniGameWizard.pdb
+C:\Users\Administrator\MiniGameWizard\obj\Debug\MiniGameWizard.csproj.AssemblyReference.cache
+C:\Users\Administrator\MiniGameWizard\obj\Debug\MiniGameWizard.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\MiniGameWizard\obj\Debug\MiniGameWizard.Form1.resources
+C:\Users\Administrator\MiniGameWizard\obj\Debug\MiniGameWizard.Form2.resources
+C:\Users\Administrator\MiniGameWizard\obj\Debug\MiniGameWizard.MatchingGame.resources
+C:\Users\Administrator\MiniGameWizard\obj\Debug\MiniGameWizard.Form4.resources
+C:\Users\Administrator\MiniGameWizard\obj\Debug\MiniGameWizard.Form5.resources
+C:\Users\Administrator\MiniGameWizard\obj\Debug\MiniGameWizard.Properties.Resources.resources
+C:\Users\Administrator\MiniGameWizard\obj\Debug\MiniGameWizard.csproj.GenerateResource.cache
+C:\Users\Administrator\MiniGameWizard\obj\Debug\MiniGameWizard.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\MiniGameWizard\obj\Debug\MiniGameWizard.exe
+C:\Users\Administrator\MiniGameWizard\obj\Debug\MiniGameWizard.pdb
+C:\Users\hw\Documents\카카오톡 받은 파일\MiniGameWizard\MiniGameWizard\bin\Debug\MiniGameWizard.exe.config
+C:\Users\hw\Documents\카카오톡 받은 파일\MiniGameWizard\MiniGameWizard\bin\Debug\MiniGameWizard.exe
+C:\Users\hw\Documents\카카오톡 받은 파일\MiniGameWizard\MiniGameWizard\bin\Debug\MiniGameWizard.pdb
+C:\Users\hw\Documents\카카오톡 받은 파일\MiniGameWizard\MiniGameWizard\obj\Debug\MiniGameWizard.csproj.AssemblyReference.cache
+C:\Users\hw\Documents\카카오톡 받은 파일\MiniGameWizard\MiniGameWizard\obj\Debug\MiniGameWizard.Form1.resources
+C:\Users\hw\Documents\카카오톡 받은 파일\MiniGameWizard\MiniGameWizard\obj\Debug\MiniGameWizard.Form2.resources
+C:\Users\hw\Documents\카카오톡 받은 파일\MiniGameWizard\MiniGameWizard\obj\Debug\MiniGameWizard.MatchingGame.resources
+C:\Users\hw\Documents\카카오톡 받은 파일\MiniGameWizard\MiniGameWizard\obj\Debug\MiniGameWizard.Form4.resources
+C:\Users\hw\Documents\카카오톡 받은 파일\MiniGameWizard\MiniGameWizard\obj\Debug\MiniGameWizard.Form5.resources
+C:\Users\hw\Documents\카카오톡 받은 파일\MiniGameWizard\MiniGameWizard\obj\Debug\MiniGameWizard.Properties.Resources.resources
+C:\Users\hw\Documents\카카오톡 받은 파일\MiniGameWizard\MiniGameWizard\obj\Debug\MiniGameWizard.csproj.GenerateResource.cache
+C:\Users\hw\Documents\카카오톡 받은 파일\MiniGameWizard\MiniGameWizard\obj\Debug\MiniGameWizard.csproj.CoreCompileInputs.cache
+C:\Users\hw\Documents\카카오톡 받은 파일\MiniGameWizard\MiniGameWizard\obj\Debug\MiniGameWizard.exe
+C:\Users\hw\Documents\카카오톡 받은 파일\MiniGameWizard\MiniGameWizard\obj\Debug\MiniGameWizard.pdb
+C:\Users\Administrator\Desktop\MiniGameWizard\MiniGameWizard\bin\Debug\MiniGameWizard.exe.config
+C:\Users\Administrator\Desktop\MiniGameWizard\MiniGameWizard\bin\Debug\MiniGameWizard.exe
+C:\Users\Administrator\Desktop\MiniGameWizard\MiniGameWizard\bin\Debug\MiniGameWizard.pdb
+C:\Users\Administrator\Desktop\MiniGameWizard\MiniGameWizard\obj\Debug\MiniGameWizard.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\MiniGameWizard\MiniGameWizard\obj\Debug\MiniGameWizard.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Desktop\MiniGameWizard\MiniGameWizard\obj\Debug\MiniGameWizard.Form1.resources
+C:\Users\Administrator\Desktop\MiniGameWizard\MiniGameWizard\obj\Debug\MiniGameWizard.Form2.resources
+C:\Users\Administrator\Desktop\MiniGameWizard\MiniGameWizard\obj\Debug\MiniGameWizard.MatchingGame.resources
+C:\Users\Administrator\Desktop\MiniGameWizard\MiniGameWizard\obj\Debug\MiniGameWizard.Form4.resources
+C:\Users\Administrator\Desktop\MiniGameWizard\MiniGameWizard\obj\Debug\MiniGameWizard.Form5.resources
+C:\Users\Administrator\Desktop\MiniGameWizard\MiniGameWizard\obj\Debug\MiniGameWizard.Properties.Resources.resources
+C:\Users\Administrator\Desktop\MiniGameWizard\MiniGameWizard\obj\Debug\MiniGameWizard.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\MiniGameWizard\MiniGameWizard\obj\Debug\MiniGameWizard.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\MiniGameWizard\MiniGameWizard\obj\Debug\MiniGameWizard.exe
+C:\Users\Administrator\Desktop\MiniGameWizard\MiniGameWizard\obj\Debug\MiniGameWizard.pdb
